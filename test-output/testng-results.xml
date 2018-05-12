@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="19875" started-at="2018-05-12T15:41:34Z" finished-at="2018-05-12T15:41:54Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="19875" started-at="2018-05-12T15:41:34Z" finished-at="2018-05-12T15:41:54Z">
+      <class name="TestNg.TestNg1.NaukriTest">
+        <test-method status="PASS" signature="setup()[pri:1, instance:TestNg.TestNg1.NaukriTest@5c7fa833]" name="setup" duration-ms="7930" started-at="2018-05-12T21:11:34Z" finished-at="2018-05-12T21:11:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="test1()[pri:2, instance:TestNg.TestNg1.NaukriTest@5c7fa833]" name="test1" duration-ms="11885" started-at="2018-05-12T21:11:42Z" finished-at="2018-05-12T21:11:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+      </class> <!-- TestNg.TestNg1.NaukriTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

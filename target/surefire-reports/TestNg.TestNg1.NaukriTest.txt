@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: TestNg.TestNg1.NaukriTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 13.617 sec <<< FAILURE!
+test1(TestNg.TestNg1.NaukriTest)  Time elapsed: 4.72 sec  <<< FAILURE!
+java.lang.NullPointerException
+	at TestNg.TestNg1.NaukriTest.test1(NaukriTest.java:38)
+
