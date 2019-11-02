@@ -27,9 +27,9 @@ public class NaukriTest{
 		@Test(priority=2) 
 	        void test1() throws InterruptedException {
 	        	
-	        	driver.findElement(By.id("usernameField")).sendKeys("saadmansuri777@gmail.com");
+	        	driver.findElement(By.id("usernameField")).sendKeys("***********");
 
-			driver.findElement(By.id("passwordField")).sendKeys("Qwert!2345");
+			driver.findElement(By.id("passwordField")).sendKeys("*******");
   
 			driver.findElement(By.cssSelector("#loginForm > div.action.row.mb0 > div > button")).click();
 
